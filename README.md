@@ -68,7 +68,7 @@ Berfungsi untuk:
     ├── Helpers/       → Kelas pendukung (opsional)
     │
     ├── WindowsApplication1.sln
-    ├── dbpenjualan-madura-mart.sql
+    ├── dbpenjualan-jayaabadi.sql
     └── README.md
 
 
@@ -78,10 +78,15 @@ Berfungsi untuk:
 File database tersedia pada:
 
 Database ini berisi tabel-tabel yang digunakan untuk mendukung proses penjualan, seperti:
-- Data produk
-- Data supplier
-- Data transaksi
-- Data pengguna
+- category
+- items
+- products
+- purchase
+- purchasedetail
+- sale
+- saledetail
+- supplier
+- users
 
 ---
 
