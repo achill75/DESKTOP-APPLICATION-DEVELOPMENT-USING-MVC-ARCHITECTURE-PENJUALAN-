@@ -68,7 +68,7 @@ Berfungsi untuk:
     ├── Helpers/       → Kelas pendukung (opsional)
     │
     ├── WindowsApplication1.sln
-    ├── dbpenjualan-jayaabadi.sql
+    ├── dbpenjualan-madura-mart.sql
     └── README.md
 
 
