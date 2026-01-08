@@ -66,7 +66,6 @@ Berfungsi untuk:
     ├── Models/        → Kelas model dan koneksi database
     ├── Controllers/   → Logika pengolahan data
     ├── Views/         → Form antarmuka pengguna
-    ├── Helpers/       → Kelas pendukung (opsional)
     │
     ├── WindowsApplication1.sln
     ├── dbpenjualan-madura-mart.sql
