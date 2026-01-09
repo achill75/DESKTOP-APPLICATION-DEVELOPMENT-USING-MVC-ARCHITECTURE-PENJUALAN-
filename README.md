@@ -1,6 +1,6 @@
 # Desktop Application Development Using MVC Architecture (Penjualan Madura Mart)
 
-![Tampilan Aplikasi Madura Mart](mdrmart.png)
+![Tampilan Aplikasi Madura Mart](1aac6447-16fd-43f9-aaee-7383b46d5698.jpg)
 ## 📌 Deskripsi Proyek
 Aplikasi ini merupakan **aplikasi desktop penjualan** yang dikembangkan menggunakan **VB.NET (Visual Basic .NET)** dengan menerapkan **arsitektur Model–View–Controller (MVC)**.  
 Aplikasi dirancang untuk membantu proses pengelolaan data penjualan pada **Madura Mart**, meliputi pengelolaan data master, transaksi penjualan, serta laporan.
