@@ -154,12 +154,3 @@ Proyek ini dibuat untuk memenuhi Ujian Akhir Semester (UAS) mata kuliah Pemrogra
 
 Proyek ini dibuat untuk keperluan akademik dan pembelajaran.
 
----
-
-## ✅ Langkah Setelah Ini
-Jalankan:
-
-```bash
-git add README.md
-git commit -m "Add README project documentation"
-git push
