@@ -137,14 +137,6 @@ Database ini berisi tabel-tabel yang digunakan untuk mendukung proses penjualan,
 
 ---
 
-## 🌀 Loading...
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%" />
-</p>
-
----
-
 ## ▶️ Cara Menjalankan Aplikasi
 1. Clone repository ini:
    ```bash
