@@ -62,14 +62,61 @@ Berfungsi untuk:
 ## 📁 Struktur Proyek
 
     WindowsApplication1/
+    ├─ controllers/
+    │  ├─ CategoryController.vb
+    │  ├─ ItemController.vb
+    │  ├─ PurchaseController.vb
+    │  ├─ PurchaseReportController.vb
+    │  ├─ SaleController.vb
+    │  ├─ SalesReportController.vb
+    │  └─ UserController.vb
     │
-    ├── Models/        → Kelas model dan koneksi database
-    ├── Controllers/   → Logika pengolahan data
-    ├── Views/         → Form antarmuka pengguna
+    ├─ models/
+    │  ├─ Category.vb
+    │  ├─ Item.vb
+    │  ├─ Purchase.vb
+    │  ├─ PurchaseDetail.vb
+    │  ├─ PurchaseReport.vb
+    │  ├─ Sale.vb
+    │  ├─ SaleDetail.vb
+    │  ├─ SalesReport.vb
+    │  ├─ Session.vb
+    │  ├─ Supplier.vb
+    │  └─ User.vb
     │
-    ├── WindowsApplication1.sln
-    ├── dbpenjualan-madura-mart.sql
-    └── README.md
+    ├─ views/
+    │  ├─ category/
+    │  │  └─ frmAddCategory.vb
+    │  ├─ items/
+    │  │  ├─ frmItemInput.vb
+    │  │  └─ frmListItem.vb
+    │  ├─ purchase/
+    │  │  └─ frmPurchase.vb
+    │  ├─ sale/
+    │  │  └─ frmSale.vb
+    │  ├─ supplier/
+    │  │  └─ frmSupplier.vb
+    │  ├─ users/
+    │  │  └─ frmUsers.vb
+    │  └─ Report/
+    │     ├─ purchase/
+    │     │  └─ FormPurchaseReport.vb
+    │     └─ sales/
+    │        └─ FormSalesReport.vb
+    │
+    ├─ Reports/
+    │  ├─ ReportPurchase.rdlc
+    │  └─ SalesReport.rdlc
+    │
+    ├─ DataSet1.xsd
+    ├─ frmLogin.vb
+    ├─ frmSetting.vb
+    ├─ frmUtama.vb
+    ├─ Koneksi.vb
+    ├─ Autentikasi.vb
+    ├─ Main.vb
+    ├─ App.config
+    └─ packages.config
 
 
 ---
